@@ -1,4 +1,4 @@
-collection = [ 'ruby', 'javascript', 'python', 'objective-c' ]
+languages = [ 'ruby', 'javascript', 'python', 'objective-c' ]
 
 empty_array = [ ]
   counter = 0
